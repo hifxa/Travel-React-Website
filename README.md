@@ -74,4 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Troubleshoot
 
 Check compatibility of all versions.\
-Check compatibilty of dependencies.
+Check compatibilty of dependencies and packages if their versions are compantible.
